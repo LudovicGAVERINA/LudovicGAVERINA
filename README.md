@@ -18,4 +18,5 @@ I trained as an engineer at **Telecom Saint-Étienne**, earned a Master's in **O
 Bridging **academic rigor** with a **startup-oriented vision**: rapid prototyping, reproducible pipelines, automation-first approach, and scalable AI/physics hybrid models.
 
 📫 **Connect**  
-Open to collaborations, discussions, and innovative ideas.
+- [ResearchGate](https://www.researchgate.net/profile/Ludovic-Gaverina)  
+- Open to collaborations, discussions, and innovative ideas.
